@@ -1,0 +1,962 @@
+
+================================================================================
+PAGE 1
+================================================================================
+CONTENTS
+• The purpose of innovation
+• Deﬁ  ning and measuring innovation
+• Radical product/service innovation
+• Business model innovation
+• Challenging market paradigms
+• Creativity and innovation
+• Innovation intensity
+• Innovation and risk
+• Innovation, proﬁ  tability and growth
+• Innovation, company size and industry 
+structure
+• Summary
+• Group discussion questions
+• Activities
+• References• Innovation3
+Learning outcomes
+When you have read this chapter and undertaken the related activities you will be able to:
+ ➥Explain the meaning of innovation, its purpose and how it can be measured in a number of 
+dimensions;
+ ➥Explain the links between creativity, invention, innovation and entrepreneurship;
+ ➥Explain how radical innovation might be stimulated and business models challenged so as to 
+potentially cause a shift in market paradigms;
+ ➥Explain the relationship between innovation and risk, proﬁ  tability and growth;
+ ➥Explain how innovation is reﬂ  ected in different-sized companies and in different industry 
+structures.CASE INSIGHTS
+3.1 Rolls-Royce and Finferries
+3.2 Bill Gates and Microsoft
+3.3 Rolls-Royce and TotalCare®
+3.4 Swatch
+3.5 Astex Therapeutics
+
+================================================================================
+PAGE 2
+================================================================================
+58Entrepreneurship and Innovation
+THE PURPOSE OF INNOVATION
+Entrepreneurial architecture seeks to create within an organization an entrepreneurial ori-
+entation that results in greater entrepreneurial intensity, measured in Figure 2.1 as fre-quency and scale of entrepreneurial outputs. But what is the purpose of these outputs? What is the aim of innovation? Th  eories of ‘industrial evolution’ , supported by empirical evidence, have linked entrepreneurship and economic growth directly (Audretsch, 1995; Ericson and Pakes, 1995; Hopenhayn, 1992; Jovanovic, 1982; Klepper, 1996; Lambson, 1991). Th  ey focus on change as the central phenomenon and emphasize the role knowledge 
+plays in charting a way through this. Innovation is seen as the key to market entry, growth and survival for an enterprise and the way entire industries change over time. Innovation, therefore, is at the heart of entrepreneurship. Entrepreneurs use it to create change and opportunity. Th  ey use it to create profi  t and sustain competitive advantage. And, occasion-
+ally, they use it to create entirely new industries. Firms that grow do so because they inno-vate in some way. For all fi  rms, of any size, innovation has become something of a Holy Grail to be sought after and encouraged, and the same applies to nations as they strive to see their economies grow. In the words of Michael Porter (1990): ‘Invention and entrepre-neurship are at the heart of national advantage’ . 
+However, innovation need not be just about economic or monetary benefi  t, as tradi-
+tional economists might defi  ne it. Innovation can contribute just as much to social and 
+environmental well-being. Indeed the two can go hand in hand, with changes in business processes leading to increased profi  t. For example, by recovering and remanufacturing key 
+component parts used in its products, the construction equipment manufacturer Caterpillar found that it increased its profi  ts on those product lines by 50 per cent, whilst cutting its 
+energy and water usage by 90 per cent. Economists such as Kate Raworth (2017) see this becoming the norm with industrial manufacturing beginning on a ‘metamorphosis from degenerative to regenerative design’ , whereby products become part of a circular economy which makes greater use of naturally renewable materials and repairs, reuses, refurbishes and recycles existing products so as to recapture value at each stage of decomposition. Innovation can include the development of business models that include this concept of regenerative design. Raworth defi  nes economic well-being far more broadly to encompass monetary, social and environmental well-being saying that ‘the business of business is to contribute to a thriving world’ . She also sees new organizational structures such as coopera-tives, not-for-profi  ts and community interest companies as giving business a values-driven 
+mission  or ‘living purpose’ and distributing income more evenly. Innovation, therefore, can 
+create many benefi  ts for society as a whole, not just the organization that undertakes it. 
+Furthermore, entrepreneurial innovation is not something to be undertaken just by the 
+private sector. Ruttan (2006) argued that large-scale and long-term government invest-ment has been behind the development of almost every general purpose technology in the last century: for example, mass-production systems, nuclear power and aviation, space, information and internet technologies. Mazzucato (2018) argued that it is the State that funds, if not undertakes, much of the early-stage (i.e., the riskiest) innovation. For exam-ple, of all US government-funded R&D in 2008 (26%), more than half of that (57%) went to basic research. Th  e private sector in 2008, meanwhile, funded 67% of US R&D but of 
+that only 18 per cent went to basic research. She points out that the private sector has engaged more in the later stages of innovation but has often benefi  tted greatly from the 
+research undertaken or funded by the public sector. She cites the big pharmaceuticals as mission
+ Th e formal 
+statement of business 
+purpose – what the business aims to achieve and how it will achieve it
+
+
+================================================================================
+PAGE 3
+================================================================================
+59Innovation
+particularly poor at basic research, preferring instead to ‘buy-in’ the research from small 
+biotech fi  rms or public labs and focus instead on the development and roll-out stages: ‘it 
+is especially the government labs and government-backed universities that invest in the research responsible for producing the most radical new drugs’ . She points out that Apple’s highly successful iPhone and iPad capitalize on government investments in the technolo-gies that underpin them: the internet, GPS (global positioning system), touch-screen and communications technologies. 
+Th ese views are echoed by many others. Janeway (2018) writes: ‘From the fi  rst Industrial 
+Revolution on the state has served as an enabler – sometimes an engine – of economic development, subsidizing if not directing the deployment of transformational technology and, more recently, taking responsibility for funding the advance of science and engineer-ing from which economically signifi  cant innovation has come to be derived. ’ He called it a 
+‘Th ree-Player Game’ in which ‘state investment in fundamental research induces fi  nancial 
+speculation to fund construction of transformational technological infrastructure, whose exploitation, in turn, raises living standards’ . Th  e private sector is seen as best at commer-
+cializing opportunities, but then they have a tendency to develop their monopoly power rather than focusing on further innovation, leaving the fi  eld open to new, smaller compa-
+nies. He cites the example of Xerox’s patented and highly profi  table position in the copier 
+market causing it to refuse to commit funds to turn invention into commercially signifi  cant 
+innovation, which in turn led many employees to leave to start their own businesses. Remember it was Xerox that invented, but failed to exploit, the graphical user interface that was managed by a mouse. Janeway sees the process as inherently unstable: ‘a world in which bubbles and crashes in the fi  nancial system spill over and liquidate both the employed and 
+their employers’ . And yet these bubbles have been the vehicle for mobilizing capital on the scale needed to fi  nance these new high-risk ventures.
+DEFINING AND MEASURING INNOVATION
+Th e literature on innovation is vast. Th  is book focuses particularly on later-stage innova-
+tion, when it is more easily exploited commercially and it is therefore concerned not just with technology but also new ways of marketing. Innovation is probably most simply defi ned as ‘new ways of doing something’ . Kanter (1983) defi  ned innovation as ‘the genera-
+tion, acceptance and implementation of new ideas, processes, products and services . . . [which] involves creative use as well as original invention’ . Schumpeter (1996) described fi ve types of innovation, emphasizing ‘newness’:
+1. Th e introduction of a new or improved good or service.
+2. Th e introduction of a new process.
+3. Th e opening up of a new market.
+4. Th e identifi  cation of new sources of supply of raw materials.
+5. Th e creation of new types of industrial organization. Th  is would include organizational 
+architecture, where the components are confi  gured in new ways. 
+What constitutes ‘newness’ is debatable, often based more on perception than reality. More 
+recently, Proctor (2014) defi  ned innovation very narrowly as the ‘practical application of 
+new inventions into marketable products and service’ – a defi  nition that excludes the last 
+three types of innovation on Schumpeter’s list. Th  e reality is that there are dozens of 
+
+================================================================================
+PAGE 4
+================================================================================
+60Entrepreneurship and Innovation
+defi nitions of innovation. In the face of so many diff  erent defi  nitions, Figure 3.1 depicts 
+innovation very simply in three dimensions, with each dimension measured on a scale that 
+ranges from incremental to radical:
+Product/service innovation  – A completely new product or service or improvements in its 
+de
+sign and/or functional qualities. Th  e internet was a radical innovation , whereas anti-
+lock brakes for cars were an incremental innovation. Some radical innovations, like the internet, can lead to the development of whole new industries. Any successful innovation needs to be safeguarded through intellectual property (IP) rights or they risk being copied. Th is is particularly important for radical innovations that may be the result of high up-front 
+investment in R&D. For example, drug companies depend heavily on their IP rights to ensure suffi   cient income to justify the initial investment is generated from new break-
+through drugs.
+Process innovation – Revisions to how a product or service is produced so that it is better or 
+che
+aper (e.g. by the substitution of a cheaper material in an existing product). Th  e robot assem-
+bly line was a radical process innovation whereas merging two elements of assembly would be incremental. Th  is is important because it can make a product or service diffi   cult to copy.
+Marketing innovation  – Improvements in the marketing of an existing product or service, 
+or e 
+ven a better way of distributing or supporting an existing product or service. Selling 
+direct to the public via telephone or the internet was a radical marketing innovation, whereas gorilla marketing or the use of social media was an incremental innovation. Innovation does not emerge just from R&D in products and processes. Entrepreneurial fi rms, in particular, are often innovative in their approach to marketing, fi  nding more eff  ec-
+tive, often cheaper, routes to market. However, whilst innovations in marketing may be cheaper than other forms of innovation they are also more easily copied. Nevertheless, product/service innovations have a life-cycle, meaning that the most appropriate 
+marketing 
+strategy  at each stage in the cycle is likely to be diff  erent and innovations in strategy need 
+to take place especially later in this cycle (this is a topic we return to in Chapter 15).
+Product or 
+service
+innovation
+Marketing innovationRadical
+RadicalRadical
+Incremental
+IncrementalProcess
+innovation
+Figure 3.1  Product, process and marketing innovation marketing 
+strategy  How the 
+value proposition is 
+delivered to customer segmentsradical 
+innovation  Th e 
+creation of radically 
+new products or services, including market paradigm shift  (see defi  nition) 
+
+
+================================================================================
+PAGE 5
+================================================================================
+61Innovation
+Linking these dimensions of innovation is business model innovation. Th  is is about 
+developing distinctively diff  erent business models – plans for how a business competes, 
+us
+es its resources, structures its relationships, communicates with customers, creates value 
+and generates profi  t. It may involve innovations in all three dimensions: products and pro-
+cesses as well as marketing. Th  e development of iTunes has been called a breakthrough 
+innovation that revolutionized the music business by linking technology in the iPod to a business model that monetarized recorded music at a time when CD sales were falling and it was being pirated and downloaded for free.
+Innovation in the architecture of an organization, so as to make it more entrepreneurial, 
+can make the organization more competitive and deliver higher levels of performance. Furthermore, whereas innovations in products, processes and marketing might be copied by competitors, architectural innovation is more diffi   cult to copy, making it more sustain-
+able. Th  e rest of this chapter, however, is concerned with the more obvious forms of prod-
+uct, process and market innovation.
+If defi  ning innovation is diffi   cult, so too is measuring it. Th  ere is no quantifi  able scale for 
+measuring innovation (Baregheh et al., 2009; Edison et al., 2013; Garcia and Calantone, 2002). What constitutes incremental or radical innovation in Figure 3.1 is a matter of judgement. To an economist, for a product to be completely or radically diff  erent from another the 
+cross 
+elasticity of demand  must be zero (changes in demand for it do not aff  ect demand for the 
+other). Simply introducing a new product or service that is similar to others is not innovative, even if it is a replacement for an existing one. Th  e cross elasticity of demand is not zero. New 
+cars are rarely truly innovative, whatever the marketing hype might say. However, arguably the Mini was innovative because it changed the way cars were designed and changed the way people perceived vehicle size – a case of perception being just as important as reality. 
+RADICAL PRODUCT/SERVICE INNOVATION
+Radical innovation is usually associated with a ‘mould-breaking’ development of a ‘new-to-the-world’ product or process (the materials used, the process employed or how the fi  rm 
+is organized to deliver them). Radical innovation can be disruptive – changing markets, industries, even societies. New-to-the-world industries have been created for centuries; water power, textiles and iron in the eighteenth century, steam, steel and rail in the nine-teenth century, and electricity, chemicals and the internal combustion engine in the early twentieth century. Now we have computers and mobile technologies which continue to disrupt entire industries, for example Google’s driverless car (threatening the car industry) and Amazon’s Fresh (threatening the fresh-food industry). Th  e internet and cloud-based 
+services have lowered the barriers to entry in many industries – facilitating market entry, off ering automation and economies of scale and lowering capital costs. Th  e next radical, 
+disruptive innovations are likely to revolve around artifi  cial intelligence and nanotechnol-
+ogy. Th  e precise nature of the innovations in these areas is diffi   cult to predict, but much of 
+the basic research around them has already been undertaken and largely funded by govern-ments. Now there are enormous commercial opportunities for the private sector to exploit. Th is will likely cause enormous economic booms that will eventually peter out as the tech-
+nologies mature and market opportunities are fully exploited.
+Invention is probably the clearest example of radical innovation. It is often linked with 
+new technologies, often the product of research and sometimes a spin-off   from other cross elasticity 
+of demand
+ How 
+demand reacts to 
+changes in price
+
+
+================================================================================
+PAGE 6
+================================================================================
+62Entrepreneurship and Innovation
+research or technological developments. For example, the ‘invention’ of the internet or 
+‘World Wide Web’ (www) by Tim Berners-Lee grew out of a small US Defense Department network project connecting researchers and was developed for computers installed at CERN (the European Organization for Nuclear Research). Examples abound of inventions that are not commercially successful and even more of inventors who did not benefi  t from 
+their inventions. English scientist Charles Babbage outlined the principles of a mechanical 
+analytical engine or universal calculator – a forerunner of the computer. It was programmed by punch cards, had a store of information (memory) and a calculating engine (processor). But he was forever tinkering with his design and could not fi  nd anyone to pay him to make 
+the machine. Instead, he went on to try to devise a foolproof system for betting on horses. Th omas Edison, probably the most successful inventor of all time, was so incompetent at 
+introducing his inventions to the marketplace that his backers had to remove him from every new business he founded. Even Tim Berners-Lee did not benefi  t directly from his 
+invention. Others, like the founders of numerous internet fi  rms, created businesses and 
+made their fortunes from his invention. 
+So invention is only one extreme example of innovation and both are linked to successful 
+commercialization. But market demand for a radically new product or service can be diffi   cult 
+to determine because potential customers have no experience of it and how it might be used. Traditional market research techniques appear ill-suited when it comes to predicting cus-tomer acceptance of more radical forms of innovation (Deszca et al., 1999). Because of this much of the basic research for this radical innovation is undertaken or funded by government. In addition, large companies with sunk costs in established technologies often appear unwill-ing to exploit radical innovations, even if the development has been undertaken by others and aff ects markets in which they are dominant (e.g. the established fossil fuel producers and the 
+more sustainable forms of energy production and storage). Organizations that are able (and willing) to both explore and exploit innovations simultaneously have been called ‘ambidex-trous’ – a term originally used by Duncan (1976) and popularized by March (1991). Much of the literature on 
+organizational  ambidexterity revolves around issues of structure, culture 
+and leadership, and resonates with the approach taken by this book in developing an entre-preneurial architecture (e.g., Gibson and Birkinshaw, 2004; Tushman and O’Reilly, 1996).
+Organizational ambidexterity is not easy and often it is left to the entrepreneur to exploit 
+the commercial application for an invention. Henry Ford did not invent the car but he did revolutionize the way cars were produced and sold, moving from craft-based to produc-tion-line manufacture, and from bespoke orders from wealthy customers to aff  ordable cars 
+sold through dealerships (Case insight 10.3). Th  ese approaches to innovation can be every 
+bit as valuable as the more traditional invention. As we saw in Case insight 1.4, Steve Jobs never invented anything but he did apply technologies developed by others so as to revolu-tionize three industries – personal computers, music and fi  lm animations. He launched the 
+Apple personal computer when market research told IBM that there was not a viable mar-ket for it. Jobs was able to foresee applications for personal computers that others could not. He never trusted market research or focus groups, preferring instead to rely on his own instincts. Th  is entrepreneurial insight plays a vital role in the process of innovation. 
+Entrepreneurs seem able to link technologies to market opportunities and in so doing make the technology more usable for, and therefore more attractive to, consumers. In their study of technology-based innovation, Phadke and Vyakarnam (2017) found this synthesis skill of critical importance in bringing an innovation to the market, but that it was in confl  ict with 
+the scientifi  c tradition which values analysis rather than synthesis.organizational 
+ ambidexterity  Th e 
+ability to both explore and exploit innovations simultaneously
+
+================================================================================
+PAGE 7
+================================================================================
+63Innovation
+BUSINESS MODEL INNOVATION
+As already defined, business model innovation is about developing innovative plans for 
+how a business competes, uses its resources, structures its relationships, communi-
+cates with customers, creates value and generates profit. It may involve changes to 
+products and  processes. As with all innovation, it can be anything from incremental to 
+radical. Radical business model innovations create market paradigm shift . They change 
+the way people think about products or services and create whole new markets where 
+none existed before. Based on a sample of 108 companies, Kim and Mauborgne (2005) 
+estimated that, whereas only 14 per cent of innovations created these new markets, 
+these innovations delivered  38 per cent of new revenues and 61 per cent of increased 
+profits. 
+A good example of market paradigm shift is the development of low-cost airlines like 
+Southwest (USA), easyJet (UK) and Ryanair (Ireland). Before the launch of these airlines, 
+fl agship carriers like British Airways (UK) and Pan American (USA) off  ered a premium 
+service targeted at businesspeople and the wealthy. Managers in these companies accepted 
+this established way of doing things and, given their cost structures, did not believe air market paradigm 
+shift Changes in 
+established market 
+conventions associated 
+with the creation of 
+radically new marketsPARTNERSHIP WORKING
+In 201 8 Rolls-Royce Holdings and the Finnish state-owned ferry operator Finferries began collaborating on a 
+research project called SVAN (Safer Vessel with Autonomous Navigation), implementing the ﬁ  ndings from an 
+earlier Advanced Autonomous Waterborne Applications (AAWA) research project, which had been funded by 
+Business Finland (a government research-funding agency). SVAN saw the car ferry Falco (which already had 
+Rolls-Royce engines) ﬁ  tted with a range of Rolls-Royce Ship Intelligence technologies. Later that same year, 
+after some 400 hours of sea trials, the ferry successfully completed a show-case voyage with some 80 VIPs in 
+the Turku archipelago of Finland. The entire voyage was conducted under remote control and without human 
+intervention.
+The Falco  was equipped with a range of advanced sensors which, combined with artiﬁ  cial intelligence, allowed 
+it to build up a detailed picture of its surroundings, in real time and with a degree of accuracy beyond that of the 
+human eye. This was relayed to Finferries’ operations centre, some 50 kilometres away in the city of Turku, where 
+a captain monitored the autonomous operations and could have taken control of the vessel if necessary. The 
+autonomous navigation system includes an automatic collision avoidance and an automatic berthing system, which 
+automatically alters course and speed when approaching the quay allowing the ship to dock safely, again without 
+human intervention.
+Visit the website: www.rolls-royce.comCASE INSIGHT 3.1
+Rolls-Royce and Finferries
+UK
+Questions:
+1. Who were the partners in this innovation and what were their roles?
+2. What are the implications of having autonomous ferries in the near future? Is this a disruptive innovation?
+Finland
+
+
+================================================================================
+PAGE 8
+================================================================================
+64Entrepreneurship and Innovation
+travel could be off  ered to everyone. Th  ey did not even consider changing their business 
+model. Th  e low-cost airlines created a whole new market for low-price air travel targeted at 
+ordinary people by changing the airline business model to ensure the minimization of costs. Although the basic product remained unaltered (safe air travel from one point to another), the service off  ered to passengers was pared back to a minimum or charged as 
+extra (e.g., no seat allocation, no food or drink, lower baggage allowances etc.), operations were re-engineered to minimize costs (e.g., fewer cabin crew, longer pilot air-time, fast airport turnaround etc.) and marketing altered so as to ensure that passenger numbers were maximised (e.g., aggressive promotion, diff  erential pricing based on early booking, 
+virtual ticketing etc.). Everything about how the basic product was delivered to passengers was changed. As a result, a whole new market was created and many of the fl  agship carriers 
+went out of business.
+Often market paradigm shifts are made possible by developments in technologies, 
+such as the internet, but they might arise through the emergence of new environmental conditions, untapped markets with diff  erent value expectations or even changes in legal 
+requirements. Paradigm shift happens when the things customers value from a product or service are challenged. Sometimes doing things diff  erently can add value for the cus-
+tomer without involving extra costs. Sometimes doing things diff  erently can reduce costs 
+whilst still allowing a high price to be charged. Sometimes additional revenues might be derived from sources other than the main activity of a business, allowing the price of a product or service to be reduced. Th  is concept has been used to good eff  ect by internet 
+companies who off  er ‘free’ services to customers but sell data on them to advertisers and 
+others. 
+In most sectors, there are factors that managers believe are critical to the success of their 
+business. Th  ese paradigms have probably endured for a long time and become part of the 
+dominant logic of an industry. Th  ey fi  lter the information managers receive, subconsciously 
+interpreting environmental data in a certain way. Managers are constrained in their think-ing by their prior knowledge (Venkatarman, 1997). Th  ey may consider only the information 
+that they believe relevant to their prevailing dominant logic. As circumstances and the environment change, the managers running the industry may not adapt their way of think-ing, leaving opportunities for others to capitalize on. 
+Th is blindness is the main reason existing businesses miss out on disruptive innova-
+tion. In his study of a number of industries, Christensen (1997) characterized this as hap-pening in stable markets where companies were geared up to delivering more of what existing customers wanted. Th  ey did not want to disrupt an existing dominant market 
+position. Reinforcing trends we noted in Chapter 1, he observed that with each generation almost all of the previously successful large fi  rms failed to make the transition eff  ectively 
+and were often squeezed out of the market or into 
+bankruptcy , despite the fact they were 
+often exemplars of good practice – ploughing a high percentage of earnings into R&D; having strong working links with their supply chain; working with lead customers to bet-ter understand their needs and develop product innovations; delivering a continuous stream of product and process innovations that were in demand from their existing cus-tomers. Th  e problem they had was their inability to identify and capitalize on the emer-
+gence of new markets  with very diff  erent needs and expectations – one aspect of the 
+problem of market disruption . Essentially, these fi  rms were too close to their existing bankruptcy  When 
+you are unable to pay your debts and a court order is obtained by creditors to have your aff airs placed in the 
+hands of an offi   cial 
+receiver
+
+================================================================================
+PAGE 9
+================================================================================
+65Innovation
+BARRIERS TO INNOVATION
+Bill Gates and Microsoft is probably the most outstanding business success story of a generation. Now a billionaire, 
+he stepped down as CEO of Microsoft in 2000 and retired as ‘Chief Software Architect’ in 2008. Five years before 
+stepping down as CEO, he wrote an internal memo that has become increasingly pertinent:
+Developments on the internet over the next several years will set the course of our industry for a long time to 
+come … I have gone thr ough several stages of increasing my views of its importance. Now I assign the 
+internet the highest level of importance. In this memo I want to make it clear that our focus on the internet is 
+crucial to every part of our business. The internet is the most important single development to come along 
+since the IBM PC was introduced in 1981.
+Unfortunately, he and the company did not seem to take any notice and, arguably, missed the internet revolution. 
+By 2 01 4, Microsoft had only just started to focus on its importance and was falling behind competitors. With sales 
+of Windows and Microsoft Ofﬁ  ce falling sharply, it was forced to announce a ‘far-reaching realignment of the 
+company’ to enable it to respond more quickly to change, ‘focusing the whole company on a single strategy’ . This 
+involved disbanding product groups, making redundancies and reorganizing itself into functional lines such as 
+engineering, marketing, advanced strategy and research. Since then it has been playing ‘catch up’ with the other 
+US tech giants (see Case insight 1 5.4). 
+With its dominant market position and enormous resources, Microsoft could have dominated the search engine 
+market rather than Google, but new developments that threatened to cannibalize their main source of revenue – 
+the Window Operating System and the Microsoft Ofﬁ  ce suite – were not allowed to surface. The dominant logic 
+within the company was to continue to exploit its extremely proﬁ  table existing product/market offering. Resources 
+were therefore targeted at defending Microsoft’s existing dominance of the software market rather than exploring 
+more disruptive innovations.
+Visit the website: www.microsoft.com  CASE INSIGHT 3.2
+Bill Gates and Microsoft
+USA 
+Questions:
+1. How difﬁ  cult is it to break away from the dominant logic within an organization?
+2. How difﬁ  cult is it to ‘predict’ the future in business?customers, suppliers and technologies. Th  e result was that they failed to see the long-term 
+potential of newly emerging markets. What might have begun as a fringe business – often 
+for something simpler and cheaper – moved into the mainstream and eventually changed 
+the rules under which the mainstream businesses operated so, by the time the mainstream 
+businesses realized this, they had lost their competitive advantage. Often, with the benefi  t 
+of hindsight, the industry seemed to be driven by technological developments in their 
+existing products rather than by developments in new technologies or changing market 
+demand.
+
+
+================================================================================
+PAGE 10
+================================================================================
+66Entrepreneurship and Innovation
+CHALLENGING MARKET PARADIGMS
+Chaston (2015) argued that you can challenge the market conventions on which estab-
+lished business models are based systematically and then develop new solutions and diff  er-
+ent models that are more attractive to customers. Th  is is something that entrepreneurs do 
+all the time as they seek to disrupt existing, already proven markets without incurring the 
+often high cost and high risk of radical product innovation. Kim and Mauborgne (2005) 
+called this ‘ blue ocean strategy ’ – fi  nding market needs that are currently unrecognized 
+and unmet. Th  ese approaches are outlined in Chapter 10. Both involve challenging the 
+established status quo – the dominant logic of an industry – and asking whether customer 
+needs can be better met in some other way.Questions:
+1. How dependent on other forms of innovation was the development of the TotalCare programme?
+2. What problems does a company face when it moves from selling a product to a service? Does this mean it 
+has to change its business model?PRODUCT/SERVICE AND BUSINESS MODEL INNOVATION
+The aero-engine manufacturer Rolls-Royce is known for the quality of its engines and the excellence of its after-
+sales service. It is also known for the innovations it has introduced in its engine designs, particularly with its newer 
+‘lean-burn’ and ‘intelligent’ engines, with sensors that predict when intervention is required – a service or the 
+replacement of parts. This is beamed back so that parts can be delivered in advance to certain airports where the 
+work can be undertaken. In the past this might have been undertaken by the airline or another service provider, 
+priced on a time and material basis.
+The introduction of the Rolls-Royce TotalCare programme was a radical innovation that changed the nature of 
+what the company was selling – from a product to a service. Instead of buying a jet engine and a service package, 
+Rolls-Royce enters into a contract with the airline based upon a fee for every hour the engine runs. Customers pay 
+for engine power as they used it. Rolls-Royce then monitors the data from the sensors built into the engine to deter-
+mine the need for service or parts replacement, which Rolls-Royce then arranges. They effectively guarantee engine 
+availability. The airline is buying a service rather than a product, allowing it to move from investing signiﬁ  cant ﬁ  xed 
+costs in engine maintenance to a variable cost – a business model that now dominates the industry and facilitated 
+the growth of low-cost airlines. For Rolls-Royce, the TotalCare programme effectively ‘locks-in’ customers to the 
+company and securing its parts business – a win-win situation for the company and its customers. 
+This new business model also had beneﬁ  cial consequences for the environment. Rather than minimizing the ini-
+tial engine cost, it created a strong incentive for the company to re-engineer its engines so as to minimize their total 
+lifetime costs. That can mean factoring in higher quality so as to minimize service and repair time. Because the 
+engines always belong to Rolls-Royce, it also means that they can design them so as to maximize the potential for 
+reuse when the TotalCare contract comes to an end and, ultimately, recycling when the engines come to the end of 
+their economic life. The TotalCare programme has proved so successful that most of Rolls-Royce’s income now 
+comes from this service, rather than the direct sale of engines. 
+Visit the website: www.rolls-royce.comCASE INSIGHT 3.3
+Rolls-Royce and TotalCare®
+UK
+ 
+blue ocean strategy  
+Th  e strategy of fi  nding 
+uncontested market 
+space and creating 
+new demand – 
+essentially market 
+paradigm shift
+
+
+================================================================================
+PAGE 11
+================================================================================
+67Innovation
+Going to the heart of any challenge to the established conventions around business 
+models is an approach to marketing called ‘ service-dominant logic ’ . In their award-win-
+ning paper, Vargo and Lusch (2004) argued that customers valued and purchased services 
+rather than goods, and goods should therefore be viewed as a medium for delivering or 
+‘transmitting’ the fi  rm’s services. Th  ey defi  ned service as ‘the application of specialized 
+competences (knowledge and skills) through deeds, processes, and performances for the 
+benefi  t of another entity or the entity itself’ . In this way companies manufacturing cars are 
+not in the business of selling cars but in the business of providing ‘mobility services’ through 
+the cars that they manufacture – a concept that could apply equally to aero-engines (see 
+Case insight 3.3). Th  us, all industries are service industries and it therefore becomes vital 
+for fi rms to understand the service that consumers are seeking from them. Th  is fundamen-
+tally diff  erent way of looking at business models questions the dominant logic surrounding 
+any goods. It requires a shift in focus from the product to the consumer  and a clear under-
+standing of customer needs and how these translate into a service they value and are willing 
+to pay for. 
+Radical business model innovation is probably easier (and cheaper) than radical innova-
+tion based on new technological developments and can be just as profi  table. It involves the 
+ability to question dominant logic and think creatively outside the box, to generate and 
+assimilate new ideas and knowledge, a vision of the future that links opportunities in 
+diverse, fragmented and often geographically widespread markets to the key capabilities of 
+the business. And these skills need to become part of the entrepreneurial architecture of 
+the organization. One of the techniques for investigating the eff  ectiveness of diff  erent busi-
+ness models is the Business Model Canvas (Osterwalder and Pigneur, 2010), which we look 
+at in Chapter 12.service-dominant 
+logic  Th e implications 
+for the idea that, rather 
+than the product, 
+customers buy the 
+services it deliversReinventing the wheel is risky and usually money and time-consuming – both of 
+which would-be entrepreneurs normally lack. However, improving something that 
+is already on the market means there is a demand for the product and you can just do it 
+better with some lateral, creative thinking. That’s not to say entrepreneurs should be dis-
+couraged from trying something revolutionary. But if you look through history, almost every 
+super successful entrepreneur took an existing idea or business and made it better.
+Adam Schwab, founder Lux Group, Business Review Australia issuu.com, July 20 1 4“
+”
+MARKET PARADIGM SHIFT THROUGH DESIGN
+Swatch created a whole new market for cheap watches by daring to be different. In the 1980s cheaper watches 
+like those made by Citizen and Seiko competed by using quartz technology to improve accuracy and digital dis-
+plays to make reading the time easier. The industry competed primarily on price and functional performance. CASE INSIGHT 3.4
+Swatch
+Switzerland consumer  Th e person 
+or organization 
+consuming or using a 
+product
+
+================================================================================
+PAGE 12
+================================================================================
+68Entrepreneurship and Innovation
+People usually owned just 
+one watch. Swatch set out 
+to change the watch market 
+and make affordable fash-
+ion accessories that were 
+also accurate timepieces. 
+To do this they relied upon 
+innovative design.
+SMH, the Swiss parent, 
+set up a design studio in 
+Italy whose mission was to 
+combine powerful technol-
+ogy with artwork, brilliant 
+colours and ﬂ  amboyant 
+designs. For a start, Swatch 
+had to be affordable so 
+costs had to be kept low. 
+Consequently, it was 
+designed with fewer com-
+ponents than most watches. 
+Screws were replaced by 
+plastic moldings. It was made in large volumes in a highly automated factory, enabling labour costs to be driven 
+down to less than 10 per cent of the selling price. Swatch changed the reason for buying a watch from the need to 
+tell the time to the desire to be fashionable. They differentiated themselves not on the function of the timepiece but 
+on its design and also its emotional appeal – a lifestyle image that made a statement about the wearer. In doing 
+this they encouraged repeat purchases because each watch was a different fashion accessory making a different 
+statement about the wearer. Because it was offered at an affordable price, people were encouraged to buy more 
+than one watch. The company used innovative marketing techniques to bring the watch to the market under several 
+different designs. Swatch has built up a core of loyal customers who repeat purchase their watches. New Swatch 
+designs come out every year.
+Visit the website: www.swatch.com
+Questions:
+1. How difﬁ  cult is it to change the way you think about a product or market?
+2. What role might design play in this?A selection of Swatch watches on display in an airport in Dubai, United Arab 
+Emirates
+Source: iStock/justhavealook
+CREATIVITY AND INNOVATION
+Underpinning innovation is creativity but a prerequisite to all creative processes is 
+knowledge and the openness to different ideas (Simmie, 2002). However, all too often 
+people do not even seek out different ideas, remaining unaware of the information, 
+knowledge and ideas being generated around them. Worse still, they surround 
+
+
+================================================================================
+PAGE 13
+================================================================================
+69Innovation
+themselves with people who think the same, generating their own dominant logic that 
+is self-reinforcing – a well-known phenomenon on social media known as the ‘echo chamber’ . Of course, this tendency for like-minded people to cluster around each other is not new. It can have sound commercial reasons, such as the sharing of knowledge and other resources. It is one of the reasons we see clusters of small firms in certain geographic locations. And if these clusters represents outward-looking, creative peo-ple, such as Silicon Valley in the USA or Cambridge in the UK, then that creative cul-ture will reinforce itself. Florida (2002; Florida and Tinagli, 2004) argued that some geographic locations (he highlighted cities like London and Barcelona) attract talented, creative people he called ‘the new creative class’ and these people, in turn, attracted creative, innovative firms. He claimed that rather than people following jobs (see Chapter 1: Geoffrey West, 2015), increasingly jobs will follow people with the appro-priate talent, creating a virtuous circle of economic growth. He claimed that the ability to compete and prosper in the new global economy ‘increasingly turns on the ability of nations to attract, retain and develop creative people’ , arguing that this new ‘creative class’ is drawn to a particular sort of place; ‘open, diverse communities where differ-ences are welcome and cultural creativity is easily accessed’ . He argued that it is toler-ance that attracts the creative class and that they have the talent to develop new technologies. New, technology-based organizations thrive in locations that combine three elements – technology, talent and tolerance.
+Th e point is that ideas that are commonplace for one group can spark insight for 
+another. It is all about being open to ideas from all and every source and not being inward-looking. It is not just about being aware of diff  erent approaches or perspectives 
+on a problem, but also about getting the brain to accept that there are diff  erent ways of 
+doing things –  developing an open and enquiring mind. Large technology companies like Samsung and LG have active programmes to encourage staff   to be exposed to ideas 
+from a wide, and sometimes unusual, range of sources. Connectivity, therefore, extends beyond any industry or market context. Th  is is one reason why partnering with other 
+people can be so useful in stimulating innovation. One person exposes the other to dif-ferent ways of doing things, diff  erent ideas, and from this there is the spark of creativity. 
+However, many people almost have to give themselves permission to be creative – to think the unthinkable.
+Knowledge and the exposure to different ideas encourage creativity, invention and 
+radical and incremental innovation. ‘Connectivity’ is one of the key drivers of creativ-ity – the connection we have with a wide range of different people and ideas (Johnson, 2010). This is about not just the scale and range of our network of contacts, but also our ability to spot connections between a problem in one context and a solution to it from another – a topic we shall explore in Chapter 9. Johnson observed that the driver of innovation over time has been the increasing connectivity between different minds. Luck may play a part in all this but, as he said, ‘chance favours the connected mind’ . He also makes the point that connectivity is not a one-off fix. Connectivity needs to be a continuous process – one that continually creates opportunities for ideas to collide and connect. There is an element of serendipity here – connecting as they do in the right place, and at the right time. This means that regular, frequent opportunities to 
+
+================================================================================
+PAGE 14
+================================================================================
+70Entrepreneurship and Innovation
+Table 3.1 The world’s most innovative companies
+Company Country Company Country
+1Apple USA 1 1 Airbnb USA
+2Alphabet (Google) USA 1 2 SpaceX USA
+3Microsoft USA 1 3 Netﬂ  ix USA
+4Amazon USA 1 4 Tencent China
+5 Samsung S. Korea 1 5 Hewlett-Packard USA
+6Tesla USA 16 Cisco Systems USA
+7IBM USA 17 Toyota Japan
+8Facebook USA 1 8 General Electric USA
+9 Uber USA 19 Orange France
+10 Alibaba China 20 Marriott USAconnect need to be built into the structure and management of the organization and 
+not just left to chance.
+INNOVATION INTENSITY
+We have seen how innovation is diffi   cult to defi  ne and measure. It can come from changes 
+in products, services, processes and marketing. It moves from radical innovation (includ-
+ing invention and market paradigm shift) through what might be called breakthrough 
+innovations (where there are ‘substantial’ changes to products or services) to incremental 
+changes. Few companies seem to achieve even ‘breakthrough’ innovations (Wagner et al., 
+2014), let alone radical ones. Indeed, there is evidence that the majority of commercially 
+signifi  cant innovations are incremental rather than radical (Audretsch, 1995). Th  e reality is 
+that the most commercially successful innovations are really just improvements rather than 
+ground-breaking inventions. Apple’s sustained commercial success is based upon good 
+design and improving product ease of use rather than invention. Apple 1 was a big improve-
+ment on other computers with its graphic user interface and ‘mouse’ , the iPod was a big 
+improvement on MP3 players, which had been available for years and the iPhone improved 
+on mobile phones from Nokia and Blackberry. Google entered a crowded search engine 
+market then dominated by AltaVista and simply created a better product by using an 
+improved search algorithm. It became commercially successful after it introduced its 
+AdWords bidding system – invented by Idealab. Facebook entered the market well after 
+social networking sites such as Friendster and MySpace.
+In 2018 the Boston Consulting Group produced their annual list of the 50 most 
+innovative companies in the world ( Table 3.1 ). The vast majority were based in the 
+USA. The companies were judged on objective financial metrics as well as subjective 
+criteria such as their speed, research and development processes; use of technological 
+platforms; and exploration of adjacent markets based on a survey of 1,500 senior exec-
+utives. As you can see, many of them have Case insights in this book (those that do are 
+highlighted in bold).
+
+
+================================================================================
+PAGE 15
+================================================================================
+71Innovation
+Th e notion that frequent incremental innovations in products, processes and marketing 
+may be just as desirable as infrequent radical innovations brings us back to the question of 
+what entrepreneurial architecture should encourage. And, of course, the answer is that it should encourage all forms of innovation, whether in products, processes or marketing and whether incremental or radical. Using the typology from Figure 2.1, which described entrepreneurship more generally, we might say entrepreneurship should specifi  cally 
+encourage 
+innovation intensity , as shown in Figure 3.2a , by pushing this envelope of inno-
+vation as far as possible. Th  ese are the dimensions and defi  nitions of innovation that Arshi 
+and Burns (2018) used when they found entrepreneurial architecture associated with and antecedent to innovation intensity. Th  ey also found each form of innovation was indepen-dent of each other.
+You might also argue that an entrepreneurial architecture should encourage the speed 
+with which an innovation is developed and brought to the market, so as to capitalize on fi rst-mover advantage. Th  e concept of innovation intensity therefore possibly requires a 
+third dimension, as shown in Figure 3.2b. 
+A fi rm can undertake many diff  erent forms of innovation simultaneously and it is the 
+innovation outputs, measured in the dimensions shown in Figures 3.2a and b, which refl  ect 
+the outcomes of an entrepreneurial architecture. Incremental and radical innovations are not mutually exclusive and the entrepreneurial fi  rm can gain competitive advantage from 
+both. Indeed, it has been argued that a track record of successful incremental innovation is a prerequisite of radical innovation (Dunlop-Hinkler et al., 2010). Frequent, small incre-mental innovations may compensate for the occasional radical innovation or invention and are usually less risky. Furthermore, the sum of many small, incremental innovations can have an enormous impact on competitive advantage (Bessant, 1999). Th  ey might even add innovation intensity
+ 
+An increase in both 
+the degree (or scale) and the frequency of innovation within an organization2 1 Siemens Germany 36 BMW Germany
+22 Unilever Holland 37 Nissan Japan
+23 BASF Germany 38 Pﬁ  zer UK/USA
+24 Expedia USA 39 Time Warner USA
+25 Johnson & Johnson USA 40 Renault France
+26 JP Morgan Chase USA 41 3M USA
+27 Bayer Germany 42 SAP Germany
+28 Dow Chemicals USA 43 DuPont USA
+29 AT&T USA 44 Intercontinental 
+Hotels GroupUK
+30 Allianz Germany 45 Disney USA
+3 1 Intel USA 46 Huawei China
+32 NTT DoCoMo Japan 47 Procter & 
+GambleUSA
+33 Daimler Germany 48 Verizon USA
+34 AXA France 49 Philips Holland
+35 Adidas Germany 50 Nestlé UK/Switzerland
+Source: BCG (20 1 8)
+
+
+================================================================================
+PAGE 16
+================================================================================
+72Entrepreneurship and Innovation
+up to a revolution. As already mentioned, Henry Ford’s revolution in the car industry 
+involved extensive incremental changes – to products and processes, component and fac-tory design and in the way labour was organized in his factories, not to mention his innova-tive way of selling cars through dealerships (Case insight 10.3). 
+High/
+frequentHigh/
+radical
+Degree/scale 
+of innovation
+Frequency of innovationIncreasing innovation intensity
+(number of events)Low/
+infrequentLow/
+incremental
+Figure 3.2a  Innovation intensity (two dimensions)Degree/scale
+of innovation
+Frequency of innovation
+(number of events)Speed of
+innovation
+Figure 3.2b  Innovation intensity (three dimensions)
+INNOVATION AND RISK
+Th e survey by the Boston Consulting Group cited earlier found that many companies were 
+risk-averse and that a risk-averse culture was a major barrier to innovation (BCG, 2018). However, whilst innovation is risky, in today’s highly competitive environment not inno-vating is riskier. Incremental product or service innovation is generally less risky than radi-cal innovation, not least because it builds on established knowledge and an established product or service. Established fi  rms may have years of product or service experience, 
+with established marketing channels and resource capabilities. Product or service innova-tion generally becomes more diffi   cult the further an organization strays from its core com-
+petences. Th  e risks in doing so also increase. Radical innovation might involve new 
+technologies and unknown markets. As you might expect, the risks associated with prod-uct or service innovation are lowest for organizations that are good at innovation –  practice breeds competence. However, they are also lowest for organizations whose core compe-tences lie in building good customer relationships, often associated with eff  ective 
+ branding – allowing for brand extension. Th  e synergy of brand extension creates econo-
+mies of scope, for example Virgin has successfully extended its brand over a diverse range of products and services from train to airplane transport and from broadband to fi  nancial 
+services. 
+Once innovations start pushing an organization into new, unfamiliar markets, the risks 
+increase. As you might expect, the risks associated with this sort of market extension are lowest for organizations that are good at sales and marketing. However, they can also be lowest for organizations whose core competences lie in the effi   ciency of their existing 
+
+================================================================================
+PAGE 17
+================================================================================
+73Innovation
+production methods where economies of scale may apply – for example, in the capital 
+goods or extractive industries. So understanding the core competences of an organization is at the base of managing the risks of innovation. Th  e further the organization strays from 
+its core competences, the greater the risk. Figure 3.3 shows risk increasing as the degree of innovation and the unfamiliarity with the market increases. Selling incremental changes in products or services to existing customers should be low risk – the needs of customers should be well known and the organization should have the competences to innovate from its existing product or service base. However, selling radically new products or services into completely new markets involves many unknowns and is high risk.
+HighHigh/
+radical
+Degree/scale of
+product/service
+innovationIncreasing risk
+Newness of market
+(unfamiliarity)Increasing distance
+from corecompetences
+LowLow/
+incremental
+Figure 3.3  Innovation and risk
+Most innovations take time to become accepted within a market, following an S-curve of innovation diff  usion (see Chapter 14). Th  e pace of diff  usion is unpredictable, but is likely to 
+be slower for more radical innovations. Both slow diff  usion and rapid diff  usion face risk – 
+albeit diff  erent sorts. What is more, there are also issues about timing of the launch of an 
+innovation – too early and you risk being ahead of the market; too late and you risk losing fi rst-mover advantage and having many competitors (see Chapter 11).
+Th e rapid pace of technological change today is constantly creating new markets – 
+ markets that are global and increasingly interlinked. Th  ese are not only attractive commer-cial opportunities, but also potential threats be cause a decision not to enter might threaten 
+the organization’s existence as these new markets consolidate as they mature. Consequently, high-growth fi  rms are sometimes forced to expand geographically at the same time as their 
+technology is changing – innovating as they enter new markets. For example, the fi  ve US 
+internet giants started out off  ering diff  erent products or services: Amazon (internet retailer), 
+Apple (computers), Facebook (social network), Google (internet search) and Microsoft (soft-ware). However, through a process of internal development, partnerships and acquisitions they are converging so as to off  er a range of similar products and services via the internet. 
+Th ey are fi  ghting to become monopoly providers of all their customers’ digital requirements 
+from the best online platform – a kind of digital utility. Th  e more services they off  er, the 
+more customers, including advertisers, they seem to attract and the more data it can collect. If this can be done from their own branded hardware with their services wired in all the bet-ter. It all creates the opportunity to generate staggering profi  ts (Case insight 15.4).
+
+
+================================================================================
+PAGE 18
+================================================================================
+74Entrepreneurship and Innovation
+Th e keys to dealing with innovation risk are information, knowledge and learning about 
+the products or services you are innovating and the markets you are entering. As we have seen in previous chapters, these are things that the entrepreneur understands very well and an entrepreneurial architecture must facilitate. Developing a set of organization-wide cog-nitive heuristics to aid risk assessment, information fl  ows and decision-making is an impor-
+tant part of this. And, where knowledge or information is not available within the organization, it must be open to sourcing it from outside. Whilst an organization might understand the product or service it is innovating, it can fi  nd out more about the market it 
+is entering by buying-in the knowledge – hiring consultants or recruiting new staff  . It might 
+consider partnering with or the acquisition of a fi  rm already established in that market. 
+Even new technologies can be bought-in. It might also consider the possibility of open-source innovation. Th  e organization’s network of relationships should also help with this 
+process. Later chapters will demonstrate how innovation risk might be managed as part of an entrepreneurial architecture. 
+INNOVATION, PROFITABILITY AND GROWTH
+Innovation is not usually an end in itself. Th  ere are usually other objectives. Th  ese may be 
+related to economic, social or environmental outcomes. Numerous academic studies link innovation with competitive advantage. Whilst radical innovation is associated with sub-
+stantially superior  competitive advantage (Dunlop-Hinkler et al., 2010), frequent incre-
+mental innovation is associated with sustained  competitive advantage (Avermaete et al., 
+2003; Dong, 2015; Norman and Verganti, 2014; Salavou, 2002). Of course, the two can be combined, particularly at diff  erent stages of a product/service life-cycle. But how do you 
+measure competitive advantage? Is it through superior fi  nancial performance such as prof-
+itability or growth?
+Just as there tends to be a link between risk and return (the higher the one, then the 
+higher the other), you might reasonably expect for there to be a direct link between fi  nan-
+cial performance and innovation – greater innovation intensity leading to higher profi  ts. 
+You  might also reasonably expect there to be a similar link with business growth – high-growth fi  rms are more innovative than others. However, the linkages are not 
+straightforward and fi  nding evidence of a direct relationship between innovation and 
+profi tability or business growth is problematic because of both methodological and mea-
+surement issues: 
+ ➥How do you measure innovation? Many studies simply use R&D spend as a proxy. 
+However, there is no guarantee that this results in successful innovation and  without that it is just an extra expenditure that will depress profi  ts. For the R&D 
+spend to be eff  ective what is needed is an eff  ective architecture that focuses the area 
+of research and complementary assets that facilitates its commercialization (Freel and Robson, 2004). 
+ ➥Although innovation is positively associated with growth in employment (Cosh and 
+Hughes, 2007), any link with growth in profi  ts is likely to be ‘lagged’ , with innovation 
+taking time, perhaps years, to feed back into growth in profi  ts – the more radical the 
+innovation, the longer the lag. 
+
+================================================================================
+PAGE 19
+================================================================================
+75Innovation
+ ➥Th e phenomenon of ‘cycling’ – the understandable tendency of fi  rms to innovate in 
+one period and then ‘consolidate’ in the next (Cefi  s, 2003) – can result in timing 
+confusion. Improved performance might be the result of innovation but be observed and measured in the period of consolidation.
+ ➥Finally, there is the question of causation. Even if there were an observable link, it does 
+not necessarily prove causation: ‘while small innovators may in aggregate grow faster than non-innovators this is not to suggest that innovation is a necessary, nor less a suffi  cient condition for growth or superior performance’ (Freel, 2000).
+So, with these caveats, what does the empirical evidence tell us? McGrath (2001) observed 
+that fi  rms following ‘conventional paths’ have lower fi  nancial returns, while fi  rms taking 
+risks have variable outcomes ranging from medium to high returns and have potential for greater long-term profi  tability. Other studies have concluded that entrepreneurial risk tak-
+ing positively infl  uences both fi  nancial performance and business growth (Dess et al., 2011; 
+Tang et al., 2014). What is more, radical innovation leads to market domination and fi  rm 
+growth (Atuahene-Gima, 2005; Tellis and Golder, 2002). However, while there is some empirical support for a link between innovation and business growth (Geroski and Machin, 1992; Yasuda, 2005), a number of studies have failed to fi  nd any direct general relationship 
+(Coad and Rao, 2008; Lööf and Hesshmati, 2006; O’Regan et al., 2006). You might therefore conclude that the evidence linking innovation with fi  nancial performance, although intui-
+tively likely, is inconclusive. 
+INNOVATION, COMPANY SIZE AND INDUSTRY 
+STRUCTURE
+Studies of innovation and company size can also appear contradictory. On the face of it, 
+empirical evidence suggests that larger fi  rms are more likely to be innovative than smaller 
+ones. Indeed, EU data (European Union, 2007) showed that larger fi  rms (250+ employees) 
+were more likely to be innovative than smaller fi  rms (10–49 employees). Data from the UK 
+(Robson and Haigh, 2008) showed that larger fi  rms (250+ employees) were more likely to 
+conduct both internal and contracted-out R&D. Th  ey were also much more likely to intro-
+duce product, process or managerial innovations generally than smaller fi  rms. By way of 
+contrast, the same study showed that sales from new-to-market or new-to-the-business products – disruptive innovations – represent a higher percentage of turnover in smaller fi rms compared to larger fi  rms. Another study found no diff  erence between the innovative 
+performance of small compared to large companies because, whilst R&D expenditure might be higher in large companies, small companies may have more innovative employ-ees. Studies that use measures such as R&D expenditure or number of R&D employees must be treated with caution because of the inability of small fi  rms often to separate these 
+inputs out. Nevertheless it has been suggested that small fi  rms conduct R&D more effi   -
+ciently and introduce new products to the marketplace faster than big companies. For example, a US study found that small fi  rms produce 2.4 times as many innovations per 
+employee as large fi  rms (Acs and Audretsch, 1990). Other studies have used measures such 
+as number of patents – an accurate, but limited measure of innovative activity. Th  ese 
+appear contradictory because they vary widely across diff  erent industry sectors. 
+
+================================================================================
+PAGE 20
+================================================================================
+76Entrepreneurship and Innovation
+Industry structure on the other hand does seem to infl  uence the level of innovation (Santarelli 
+and Piergiovanni, 1996). Studies have concluded that innovation is less likely in more mature 
+industries that are highly concentrated and more likely in new industries that are less concen-trated (Acs and Audretsch, 1988; Dolfsma and van der Panne, 2008; Symeonidis, 1996). Large fi rms are the dominant innovators in mature industries where you might speculate that the 
+focus is on incremental product and cost-reducing process innovations. It is in new, less  concentrated industries where small entrepreneurial fi  rms are more important in terms of 
+innovation and where an entrepreneurial architecture can be most advantageous.
+Large fi  rms seem to outperform small fi  rms where resources are important – because of 
+capital intensity or because of scale of spending on R&D, advertising, etc. – although there are typically fewer smaller fi  rms in highly capital-intensive industries. Indeed, small fi  rms 
+generally have lower productivity than large fi  rms. However, whereas larger fi  rms have bet-
+ter access to both internal and external fi  nancing than smaller ones and are more produc-
+tive, smaller fi  rms have behavioural advantages – a closeness to the market, a greater 
+willingness to take risks, an ability to act quickly. Nevertheless scale and resource availabil-ity matters, no less so than in industries or sectors that are facing disruption through inno-vation. For example, the retail sector is facing enormous disruption as online retailers compete against high street shops. Th  e biggest disruptor is Amazon – and they spent some 
+$27 billion on R&D in 2018. How many retailers spent anything approaching this? For con-text, the pharmaceutical multinational GlaxoSmithKline spent about $5.8 billion.
+Th e evidence on the relationship between the size of established fi  rms and innovation is 
+inconclusive (Brynjolfsson and Kahin, 2000). Th  is is despite the fact that large fi  rms have 
+many advantages: such as resources, funding, product and market knowledge and experi-enced management. So why are they not the main source of innovation? Th  e main reason 
+is probably that they become too focused on their existing products and established  markets – making a change in direction more diffi   cult.
+What seems clear is that innovative behaviour is not entirely related to fi  rm size. Smaller 
+fi rms seem to have advantages in some industries, larger fi  rms in others. What we learn 
+from looking at industries rather than just size of companies is that:
+ ➥Smaller entrepreneurial fi  rms play a signifi  cant role introducing radical, disruptive 
+innovation. Th  ey spot the opportunity (perhaps coming out of basic research in the 
+public sector), develop the innovation and move quickly into the market. If larger organizations wish to compete in these industries it requires them to show the same entrepreneurial fl  air as smaller companies by introducing an entrepreneurial architec-
+ture and create the same knowledge networks.
+ ➥Larger fi  rms have a signifi  cant resource advantage over smaller fi  rms and can be more 
+productive generally. Th  ey have more resources of every kind to help with innovation 
+and the costs of obtaining more resources are often lower than for smaller fi  rms. 
+However, smaller fi  rms use the resources they have for innovation more effi   ciently 
+than larger fi  rms. Larger fi  rms therefore have a potential competitive advantage over 
+smaller fi  rms in areas where the costs of innovation are high, particularly if they can 
+develop an entrepreneurial architecture that enables them to use these resources as effi  ciently and eff  ectively as smaller competitors.
+ ➥Smaller fi  rms thrive in industries where economies of scale are less important to 
+customers than other factors such as marketing, service quality or variety. Whilst 
+
+================================================================================
+PAGE 21
+================================================================================
+77Innovation
+these are often niche markets, they can be highly profi  table. If larger organizations 
+wish to compete in these markets they must at least match the factors valued by the 
+target market. One way of doing this is to reorganize into smaller units, each with the 
+entrepreneurial architecture that allows them to compete eff  ectively. Alongside this it 
+may be possible to develop diff  erent business models that would be more valued by 
+these target markets, using resources that smaller competitors do not have.
+ ➥Smaller entrepreneurial fi  rms are less important in stable, mature, high-concentration 
+industries where the innovation focus has switched to effi   ciency and cost reduction. In 
+these environments an entrepreneurial architecture may be counter-productive. 
+However, by defi  nition, these industries are probably nearing the end of their life-cycle 
+and radical innovation or a move into other sectors is probably required to prolong the 
+life expectancy of the larger organization. 
+It has been pointed out that the advantages of large fi  rms are generally the disadvantages of 
+small fi  rms, and vice versa, and therefore collaboration or partnering between the two sizes 
+of business can create powerful synergistic relationships (Vossen, 1998). Th  is is a theme we 
+shall return to many times.
+SMALL FIRMS AND INNOVATION
+Astex Therapeutics was set up in 1999. It was founded by Dr. Harren Jhoti, who left GlaxoWellcome (now 
+GlaxoSmithKline) and by two University of Cambridge professors – Chris Abell and Sir Tom Blundell. Located in 
+Cambridge, UK, the company focused on the discovery and development of drugs, particularly in the area of 
+oncology, using a technique called ‘fragment-based drug discovery’ – a technique pioneered by the founders and 
+dubbed ‘Pyramid’ . It was partially seed-funded by the University of Cambridge and raised nearly £100 million of 
+venture capital funds, working in partnership with larger pharma companies to develop a number of new drugs. 
+In 201 1 it merged with a NASDAQ-quoted US company called Supergen, who then closed their US laboratory 
+and concentrated its research in Cambridge, UK, where some 80 people were employed. Astex became a 
+US-quoted company with James Manuso of Supergen as chairman and CEO until 201 3, when it was bought by a 
+Japanese pharmaceutical company called Otsuka for approximately $900 million. Its research and headquarters 
+still operates from Cambridge with Harren Jhoti as president and CEO.
+Visit the website: astx.comCASE INSIGHT 3.5
+Astex Therapeutics
+UK
+Questions:
+1. How important was the link with the University of Cambridge for Astex when it started?
+2. In the age of the internet, how important is geographic proximity to sources of knowledge in encouraging 
+innovation? Explain.
+
+================================================================================
+PAGE 22
+================================================================================
+78Entrepreneurship and Innovation
+SUMMARY
+ ➥Innovation is diffi   cult to defi  ne. It is about doing things diff  erently. It can take diff  erent forms: product, 
+process and/or market innovation. Although scale of innovation is important, competitive advantage can equally be gained by frequent, incremental innovations – a strategy that is less risky and from which the majority of commercially signifi  cant innovations have come. 
+ ➥Innovation intensity is measured by the degree or scale of innovation and its frequency. Th  is measure 
+might be supplemented with the speed taken to innovate. Th  e greater the innovation intensity, the higher 
+the risks faced by an organization (but also the higher the potential profi  ts).
+ ➥Invention is the extreme and riskiest form of innovation. Much early-stage innovation is funded by the 
+public sector. But inventors and governments are not necessarily entrepreneurial and they may need the help of an entrepreneur or an entrepreneurial organization to link their invention to market demand and they, in turn, need the backing of fi  nancial institutions. 
+ ➥Business model innovation is about developing innovative plans for how a business competes – plans that 
+break from the dominant logic of a sector. Th  is can lead to market paradigm shift, creating new markets 
+where none existed before.
+ ➥Knowledge and the exposure to diff  erent ideas encourage creativity, invention and radical and incremen-
+tal innovation. Connectivity is one of the key drivers of creativity – the connection we have with a wide range of diff  erent people and ideas – and this can be encouraged within an organization.
+ ➥Finding evidence of a relationship between innovation and business profi  tability and growth is problem-
+atic. Th  e relationship between innovation and other factors is a complex one and therefore studies are 
+inconclusive. 
+ ➥Th e rate of innovation (however measured) seems to vary between fi  rms of diff  erent size, across indus-
+tries and sectors depending on industry age and stability, and even location. Small and large fi  rms have 
+advantages in producing diff  erent types of innovation. Large fi  rms seem to outperform small fi  rms where 
+access to resources and markets is important. Small fi  rms play a signifi  cant role in developing and 
+introducing radical, disruptive innovations. Th  ey seem to innovate more effi   ciently than large fi  rms, 
+although they tend to do this in sectors where resources are less important (where they thrive). 
+GROUP DISCUSSION QUESTIONS
+1. What does innovation mean? Give some examples.
+2. How can innovation be measured? Explain how it might be undertaken.
+3. What are the diff  erences between creativity, invention and innovation? What are the links between these 
+concepts and entrepreneurship?
+4. Which countries are most associated with innovation? Why do you think this is?
+5. Is there a best type of innovation?
+6. How do you evaluate the commercial potential of a radical innovation?
+7.  How do you evaluate the commercial potential of a project that involves challenging proven business models that work well?
+8. What are the risks associated with innovation?
+9. What are the risks associated with market paradigm shift?
+
+================================================================================
+PAGE 23
+================================================================================
+79Innovation
+10. Is frequent incremental innovation better than infrequent radical innovation?
+11 .  Why might large companies decide not to exploit innovations developed by others that aff  ect their 
+markets?
+1 2. What are the challenges facing an organization seeking to become ‘ambidextrous’?
+13. If innovation is risky, then you need to take time to introduce it. Discuss.
+1 4. What are the problems in linking innovation with profi  tability and growth?
+15. What advantages and disadvantages do small fi  rms have over large fi  rms in innovation?
+16. Why and how does scale infl  uence innovation?
+17.  Why and how does sector infl  uence innovation?
+18. What does innovation mean for a social enterprise?
+ACTIVITIES
+1. Draw up a research proposal to measure innovations undertaken in an organization in the last year. 
+Make sure you cover details of the measurement scale you propose to use (e.g., a copy of the question-naire) and the methodology you would use to collect the data.
+2. Find an organization that has introduced innovations over the last year and undertake this study, plotting your results on a diagram such as Figure 3.2(a) or (b).
+3. Write a report explaining the commercial disruption caused by the internet and mobile technologies over the last decade.
+REFERENCES
+Acs, Z.J. and Audretsch, D.B. (1988) ‘Innovation in Large and Small Firms: An Empirical Analysis’ , American Economic 
+Review , 78(4).
+Acs, Z.J. and Audretsch, D.B. (1990) Innovation and Small Firms, Cambridge, MA: MIT Press.
+Arshi, T. and Burns, P . (2018) ‘Entrepreneurial Architecture: A Framework to Promote Innovation in Large Firms’ , 
+Th  e Journal of Entrepreneurship, 27(2).
+Atuahene-Gima, K. (2005) Resolving the Capability–Rigidity Paradox in New Product Innovation. Th e Journal of 
+Marketing , 69, October.
+Audretsch, D.B. (1995) ‘Innovation, Growth and Survival’ , International Journal of Industrial Organisation, 13.
+Avermaete, T., Viaene, E., Morgan, J., and Crawford, N. (2003) ‘Determinants of Innovation in Small Food Firms’ , 
+European Journal of Innovation Management, 6(1). 
+Baregheh, A., Rowley, J. and Sambrook, S. (2009) ‘Towards a Multidisciplinary Defi  nition of Innovation’ , Management 
+Decision, 47(8).
+BCG (2018) Th  e Most Innovative Companies 2018: Innovators Go All in on Digital , Boston, MA: Boston Consulting 
+Group. Available on: https://www.bcg.com/publications/2018/most-innovative-companies-2018-innovation.aspx .
+Bessant, J. (1999) ‘Developing Continuous Improvement Capability’ , International Journal of Innovation Management, 2.Brynjolfsson, E. and Kahin, B. (2000) (eds) Understanding the Digital Economy: Data, Tools and Research , Cambridge, 
+MA: MIT Press.
+Cefi s, E. (2003) ‘Is there Persistence in Innovative Activities?’ , International Journal of Industrial Organization, 21(4).
+Chaston, I. (2015) Entrepreneurial Marketing: Competing by Challenging Convention (2nd ed.), London: Red Globe Press. 
+Christensen, C. (1997) Th  e Innovator’s Dilemma, Cambridge, MA: Harvard Business School Press.Coad, A. and Rao, R. (2008) ‘Innovation and Firm Growth in High-Tech Sectors: A Quantile Regression Approach’ , 
+Research Policy, 37(4).
+Cosh, A.D. and Hughes, A. (eds) (2007) British Enterprise: Th  riving or Surviving? , Cambridge: Centre for Business 
+Research, University of Cambridge.
+
+
+================================================================================
+PAGE 24
+================================================================================
+80Entrepreneurship and Innovation
+Dess, G.G., Pinkham, B.C. and Yang, H. (2011) ‘Entrepreneurial Orientation: Assessing the Construct’s Validity and 
+Addressing Some of Its Implications for Research in the Areas of Family Business and Organizational Learning’ . Entrepreneurship Th  eory and Practice , 35. 
+Deszca, G., Munro, H. and Noori, H. (1999) ‘Developing Breakthrough Products: Challenges and Options for Market 
+Assessment’ , Journal of Operations Management , 17(6).
+Dolfsma, W. and van der Panne, G. (2008) ‘Currents and Sub-currents in Innovation Flows: Explaining Innovativeness 
+Using New-Product Announcements’ , Research Polic y, 37(10).
+Dong, A. (2015) ‘Design × Innovation: Perspective or Evidence-Based Practices’ International Journal of Design 
+Creativity and Innovation , 3(3).
+Duncan, R. (1976) ‘Th  e Ambidextrous Organization: Designing Dual Structures for Innovation’ , in R.H. Killman, 
+L.R. Pondy, and D. Sleven (eds) Th e Management of Organization , New York, NY: North-Holland.
+Dunlop-Hinkler, D., Mudambi, R. and Kotabe, M. (2010) ‘ A Story of Breakthrough and Incremental Innovation’ , Strategic 
+Entrepreneurship Journal , 4(2).
+Edison, H., Bin Ali, N. and Torkar, R. (2013) ‘Towards Innovation Measurement in the Software Industry’ , Th e Journal of 
+Systems and Software , 86(5).
+Ericson, R. and Pakes, A. (1995) ‘Markov-Perfect Industry Dynamics: A Framework for Empirical Work’ , Review of 
+Economic Studies , 62.
+European Union (2007) Statistics in Focus:  Community Innovation Statistics, Is Europe Growing More Innovative?, 
+61/2007, Brussels: EU.
+Florida, R. (2002) Th e Rise of the Creative Class: And How It’s Transfor ming Work, Leisure , Community and Everyday Life , 
+New York, NY: Basic Books.
+Florida, R. and Tinagli, I. (2004) Europe in the Creative Age , London: Demos.
+Freel, M.S. (2000) ‘Do Small Innovating Firms Outperform Non-innovators?’ , Small Business Economics,  14(3).
+Freel, M.S. and Robson, P .J.A. (2004) ‘Small Firm Innovation, Growth and Performance: Evidence from Scotland and 
+Northern Ireland’ , International Small Business Journal , 22(6).
+Garcia, R. and Calantone, R. (2002) ‘ A Critical Look at Technological Innovation Typology and Innovativeness 
+Terminology: A Literature Review’ , Journal of Product Innovation Management , 19(2).
+Geroski P . and Machin, S. (1992) ‘Do Innovating Firms Outperform Non-innovators?’ , Business Strategy Review , 3(2). 
+Gibson, C.B. and Birkinshaw, J. (2004) ‘Th  e Antecedents, Consequences and Mediating Role of Organizational 
+Ambidexterity’ Academy of Management Journal, 47.
+Hopenhayn, H.A. (1992) ‘Entry, Exit and Firm Dynamics in Long Run Equilibrium’ , Econometrica , 60.
+Janeway, W.H. (2018) Doing Capitalism in the Innovation Economy , Cambridge: Cambridge University Press.
+Johnson, S. (2010) Where Good Ideas Come From: Th  e Natural History of Innovation , London: Allen Lane.
+Jovanovic, B. (1982) ‘Favorable Selection with Asymmetrical Information’ , Quarterly Journal of  Economics , 97(3).
+Kanter, R.M. (1983) Th e Change Masters: Innovation and Productivity in American Corporations,  New York, NY: Simon 
+& Schuster.
+Kim, W.C. and Mauborgne, R. (2005) ‘Blue Ocean Strategy: From Th  eory to Practice’ , California Management Review , 
+47(3), Spring.
+Klepper, S. (1996) ‘Entry, Exit, Growth and Innovation over the Product Life Cycle’ , American Economic  Review
+, 86(3).
+Lambson, V.E. (1991) ‘Industry Evolution with Sunk Costs and Uncertain Market Conditions’ , International Journal of 
+Industrial Organisations , 9.
+Lööf, H. and Hesshmati, A. (2006) ‘On the Relationship Between Innovation and Performance: A Sensitivity Analysis’ , 
+Economics of Innovation and New Technology , 15, 4–5.
+March, J.G. (1991) ‘Exploration and Exploitation in Organizational Learning’ Organization Science, 2.
+Mazzucato, M. (2018) Th e Entrepreneurial State: Debunking Public vs Private Sector Myths , London: Penguin Books.
+McGrath, R.G. (2001) Exploratory Learning, Innovative Capacity, and Managerial Oversight. Academy of Management 
+Journal , 44(1).
+Norman, D. and Verganti, R. (2014) ‘Incremental and Radical Innovation: Design Research Versus Technology and 
+Meaning Change’ , Design Issues , 30(1).
+O’Regan, N., Ghobadian, A. and Gallear, D. (2006) ‘In Search of the Drivers of High Growth in Manufacturing SMEs’ , 
+Technovation , 26(1).
+Osterwalder, A. and Pigneur, Y. (2010) Business Model Generation: A Handbook for Visionaries, Game Changers and 
+Challengers , Hoboken, NJ: John Wiley & Sons.
+
+================================================================================
+PAGE 25
+================================================================================
+81Innovation
+Phadke, U. and Vyakarnam, S. (2017) Camels, Tigers & Unicorns: Rethinking Science & Technology-Enabled Innovation,  
+London: World Scientifi  c.
+Porter, M.E. (1990) Th  e Competitive Advantage of Nations, New York, NY: Free Press.
+Raworth, K. (2017) Doughnut Economics: Seven Ways to Th  ink Like a 21st-Century Economist, London: Random House 
+Books.
+Robson, S. and Haigh, G. (2008) ‘First Findings from the UK Innovation Survey 2007’ , Economic and Labour Market 
+Review , 2(4).
+Ruttan, V. (2006) Is War Necessary for Economic Growth? Military Procurement and Technological Development, New 
+York, NY: Oxford University Press.
+Salavou, H. (2002) ‘Product Innovativeness and Performance: A Focus on SMEs’ , Management Decision, 46(7).
+Santarelli, E. and Piergiovanni, R. (1996) ‘ Analysing Literature-Based Innovation Output Indicators’ , Research Policy, 
+25(5).
+Schumpeter, J.A. (1996) Th  e Th eory of Economic Development, Edition Copyright 1983, New Brunswick, NJ: Transaction 
+Publishers.
+Simmie, J. (2002) ‘Knowledge Spillovers and Reasons for the Concentration of Innovative SMEs’ , Urban Studies, 39, 5–6.Symeonidis, G. (1996) ‘Innovation, Firm Size and Market Structure: Schumpeterian Hypotheses and Some New Th  emes’ , 
+OECD Economic Studies, 27.
+Tang, J., Tang, Z. and Katz, J.A. (2014) Proactiveness, Stakeholder-Firm Power Diff  erence, and Product Safety and 
+Quality of Chinese SMEs. Entrepreneurship: Th  eory & Practice, 38(5).
+Tellis, G.J. and Golder, P . (2002) Will and Vision: How Latecomers Grow to Dominate Markets , New York, NY: 
+McGraw-Hill.
+Tushman, M.L., and O’Reilly, C.A. (1996) ‘ Ambidextrous Organizations: Managing Evolutionary and Revolutionary 
+Change’ , California Management Review, 38.
+Vargo, S.L. and Lusch, R.F. (2004) ‘Evolving to a New Dominant Logic for Marketing’ , Journal of Marketing , 68(1).
+Venkatarman, S. (1997) ‘Th  e Distinctive Domain of Entrepreneurship Research: An Editor’s Perspective’ in Advances in 
+Entrepreneurship, Firm Emergence and Growth, Katz, J. and Brockhaus, R. eds., Greenwich, CT: JAI Press.
+Vossen, R.W. (1998) ‘Relative Strengths and Weaknesses of Small Firms in Innovation’ , International Small Business 
+Journal, 16(3).
+Wagner, K., Taylor, A., Zablit, H. and Foo, E. (2014) Th e Most Innovative Companies 2014: Breaking Th  rough Is Hard to 
+Do, Boston Consulting Group Report, October.
+West, G. (2015) Strategy + Business , Issue 81, Winter.
+Yasuda, T. (2005) ‘Firm Growth, Size, Age and Behavior in Japanese Manufacturing’ , Small Business Economics , 24(1).
+For further resources relating to this chapter see the companion website at 
+www.macmillanihe.com/Burns-CEI
+
