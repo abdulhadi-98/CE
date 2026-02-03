@@ -5,10 +5,20 @@
 
 ---
 
+## ATTRIBUTION AND COPYRIGHT NOTICE
+
+**Source Material:** Burns, P. (2020). *Corporate Entrepreneurship and Innovation*, Chapter 3: Innovation.
+
+**Purpose:** These lecture notes are derivative educational materials created for academic teaching purposes based on the source textbook. This document synthesizes, analyzes, and expands upon the original chapter content with additional pedagogical frameworks, discussion questions, and contemporary applications.
+
+**Copyright:** Original textbook content © Burns (2020). These lecture notes are provided for educational use only and should not be reproduced or distributed commercially without proper authorization.
+
+---
+
 ## COURSE INFORMATION
 **Course:** Corporate Entrepreneurship  
 **Chapter:** 3 - Innovation  
-**Instructor:** [Professor Name]  
+**Instructor:** [To be customized by instructor]  
 **Duration:** 2-3 lecture sessions (150-225 minutes)  
 **Level:** Graduate/Advanced Undergraduate  
 
