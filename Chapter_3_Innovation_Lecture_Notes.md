@@ -390,11 +390,12 @@ Innovation          │                  │
 
 **Complicating Factors:**
 
-1. **The "Cycling" Phenomenon (Cefis, 2003):**
+1. **The "Cycling" Phenomenon:**
    - Firms innovate in one period
    - Then "consolidate" in the next
    - Performance improvements may appear during consolidation
    - Creates timing confusion in measurement
+   - (Source: Cefis, E. (2003). "Is there persistence in innovative activities?" *International Journal of Industrial Organization*, 21(4), 489-515)
 
 2. **Causation Questions:**
    - Correlation ≠ causation
@@ -453,7 +454,9 @@ Innovation          │                  │
 
 ### 9.2 Industry Structure and Innovation
 
-**Research Findings (Santarelli & Piergiovanni, 1996; Acs & Audretsch, 1988):**
+**Research Findings:**
+
+Studies by Santarelli & Piergiovanni (1996), Acs & Audretsch (1988), Dolfsma & van der Panne (2008), and Symeonidis (1996) have concluded that industry structure significantly influences innovation levels.
 
 **Innovation More Likely In:**
 - New industries

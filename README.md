@@ -9,7 +9,7 @@ This repository contains educational materials for a Corporate Entrepreneurship 
 
 ## Chapter 3: Innovation - Lecture Notes
 
-The lecture notes for Chapter 3 provide a comprehensive, PhD-level academic resource for teaching innovation in corporate entrepreneurship. The notes include:
+The lecture notes for Chapter 3 provide a comprehensive, standard university-level academic resource for teaching innovation in corporate entrepreneurship. The notes are suitable for advanced undergraduate, MBA, PhD, and executive education programs. The notes include:
 
 ### Key Topics Covered:
 1. Purpose and importance of innovation
@@ -34,8 +34,9 @@ The lecture notes for Chapter 3 provide a comprehensive, PhD-level academic reso
 
 ### Format:
 The lecture notes are structured in a professional academic format suitable for:
+- Advanced undergraduate courses
+- MBA programs
 - PhD-level instruction
-- MBA courses
 - Executive education
 - Corporate training programs
 
